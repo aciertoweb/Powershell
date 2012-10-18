@@ -1,0 +1,1 @@
+get-chiditem -recurse | select-object "*.jpg"
